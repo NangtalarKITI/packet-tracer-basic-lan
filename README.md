@@ -26,6 +26,8 @@ To build a simple local area network where two PCs can communicate through a swi
 ## Verification 
 - Successful ping between PC0 and PC1
 
+![Ping test from PC0 to PC1](ping-pc0-to-pc1.png)
+
 ## What I Learned
 - How devices communicate within the same subnet using IP addresses
 - How switches forward traffic between devices on a local network
