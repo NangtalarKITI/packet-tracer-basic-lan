@@ -15,6 +15,8 @@ To build a simple local area network where two PCs can communicate through a swi
 |PC0 | 192.168.1.10|
 |PC1 | 192.168.1.11|
 
+![Basic LAN Topology](network-topology-diagram.png)
+
 ## Steps
 1. Added one switch and two PCs in Cisco Packet Tracer
 2. Connected devices using copper straight-through cables
